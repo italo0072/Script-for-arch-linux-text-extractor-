@@ -1,0 +1,1 @@
+# Plugins-for-arch-linux-text-extractor-
