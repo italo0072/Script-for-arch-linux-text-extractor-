@@ -33,6 +33,8 @@ chmod +x ~/hX11_Extractio.sh
 
 # Acesibilidad
 ya siendo ejecutable lo que haremos es asignale un tecla en atajos de teclados en configuraciones 
+
 ![image](https://github.com/user-attachments/assets/dd653c27-8801-4c97-bdbe-992721a13901)
+
 anadir nuevo ahi daremos la opcion de script y le daremos donde esta nuestro scrip anteriormente creado 
 ya con esto solo queda colocar una combinacion de teclas y darle aplicar
