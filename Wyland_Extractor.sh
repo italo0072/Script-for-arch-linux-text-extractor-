@@ -13,6 +13,7 @@ fi
 
 flameshot gui --raw > /tmp/screenshot.png
 
+# Define la ruta temporal para la captura de preferncia dejar asi
 if [ ! -f /tmp/screenshot.png ]; then
     notify-send "Error: No se pudo tomar la captura de pantalla."
     exit 1
