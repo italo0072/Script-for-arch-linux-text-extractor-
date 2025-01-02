@@ -17,7 +17,7 @@ sudo pacman -S maim tesseract tesseract-data-spa xclip
 
 Para wyland
 ```bash
- sudo pacman -S flameshot  tesseract
+sudo pacman -S flameshot tesseract tesseract-data-spa xclip
 ```
 
 luego deberan un Descargar uno de los dos sh que estan dependiendo su version hubicarlo en un lugar donde sea acesible 
