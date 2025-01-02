@@ -3,7 +3,7 @@
 Hacemos una simulancion para ambar verciones con la ligera diferencia de cada una como el copiado automatico al porta papeles
 me enfoque en la comodidad aunque con wyland por compatibilidad se ocupa lo que es mas
 flameshot que permite tambien hacer captura de pantalla pero con ligeros cambio se hace unextractor de texto
-lo que diferenci de el xclip que es que ocuamos en x11 es que en flameshot ocupamos confirmar con un enter
+lo que diferenci de el main  que es que ocuamos en x11 es que en flameshot ocupamos confirmar con un enter
 se copiara automaticamente al porta papales
 
 # Pasos para installacion y configuracion
