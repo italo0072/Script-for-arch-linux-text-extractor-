@@ -21,7 +21,9 @@ sudo pacman -S flameshot tesseract tesseract-data-spa xclip
 ```
 
 luego deberan un Descargar uno de los dos sh que estan dependiendo su version hubicarlo en un lugar donde sea acesible 
-luego aremos que el script sea asesible siempre dependiendo su version
+luego aremos que el script sea asesible siempre dependiendo su version para que este comand funcione como esta aca tiene que 
+dejarlo en el home donde se encuentra su carpeta de descargar,documentos, ets despues lo puede mover si quieren solo es para este
+unico comando
 wyland
 ```bash
 chmod +x ~/Wyland_Extractor.sh
